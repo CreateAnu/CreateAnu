@@ -6,7 +6,8 @@
 
 💞️ I am open to collaborating on innovative and impactful projects, particularly in Android development.
 
-📫 You can reach me via email or Discord.
+📫 You can reach me via email.
+mail - anuragsatav0507@gmail.com 
 
 😄 Pronouns: he/him
 

@@ -13,9 +13,6 @@
 ⚡ Fun fact: I have an exciting dream project I aspire to bring to life. I can be persistent at times, but always with the intention of achieving the best outcomes.
 
 ---
-
-Let me know if you’d like to tailor this further!
-
 <!---
 CreateAnu/CreateAnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @CreateAnu
-- 👀 I’m interested in learning digital art, web design , android developement and also very passionatly ready to explore a startup business.
-- 🌱 I’m currently pursuing masters of computer application(MCA) , from hiray college of MCA which is in bandra east also learning webdesign and I'm already a certified graphic designer.
-- 💞️ I’m looking to collaborate on just a cool and impactful projects, mainly in android development.
-- 📫 How to reach me just email or contact via discord.
-- 😄 Pronouns: he/he/he/he
-- ⚡ Fun fact: have a dream project I wish to work on. also about me that I can be pushy sometimes but its for your own good 
+👋 Hi, I’m @CreateAnu.
+
+👀 I am passionate about digital art, web design, Android development, and am eager to explore opportunities in the startup ecosystem.
+
+🌱 I am currently pursuing a Master of Computer Applications (MCA) at Hiray College of MCA, Bandra East. In addition to my academic pursuits, I am furthering my skills in web design and am already a certified graphic designer.
+
+💞️ I am open to collaborating on innovative and impactful projects, particularly in Android development.
+
+📫 You can reach me via email or Discord.
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I have an exciting dream project I aspire to bring to life. I can be persistent at times, but always with the intention of achieving the best outcomes.
+
+---
+
+Let me know if you’d like to tailor this further!
 
 <!---
 CreateAnu/CreateAnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
